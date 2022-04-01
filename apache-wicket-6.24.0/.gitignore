@@ -1,0 +1,14 @@
+**target*
+velocity.log
+**.project
+**.classpath
+**.settings/
+.metadata
+**velocity.log*
+*.idea/
+*.iml
+*~
+nb-configuration.xml
+.DS_Store
+**/node/
+**/node_modules/
