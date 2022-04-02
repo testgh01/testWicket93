@@ -344,7 +344,7 @@
 			<dependency>
 				<groupId>org.apache.wicket</groupId>
 				<artifactId>wicket-native-websocket-core</artifactId>
-				<version>6.24.0</version>
+				<version>6.30.0</version>
 				<type>jar</type>
 			</dependency>
 			<dependency>
@@ -974,7 +974,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -993,7 +993,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
