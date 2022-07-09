@@ -37,7 +37,7 @@
 		
 		<!-- Project Versions -->
 		<jetty.version>7.6.15.v20140411</jetty.version>
-		<jetty9.version>9.0.6.v20130930</jetty9.version>
+		<jetty9.version>9.4.47.v20220610</jetty9.version>
 		<spring.version>3.0.7.RELEASE</spring.version>
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
@@ -974,7 +974,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -993,7 +993,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
